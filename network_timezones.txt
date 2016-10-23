@@ -401,6 +401,7 @@ CHELSEA TV (UK):Europe/London
 Chérie 25:Europe/Paris
 Chiba TV (JP):Asia/Tokyo
 chiller (US):US/Eastern
+Chiller:US/Eastern
 Chorus Sports:Europe/Dublin
 Christian (UK):Europe/London
 Christian Television Network (US):US/Eastern
@@ -782,6 +783,7 @@ France 5:Europe/Paris
 France Ô:Europe/Paris
 FRANCE24 (US):US/Eastern
 Fred TV:US/Eastern
+Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
 FSTV (US):US/Eastern
 FTV:Asia/Taipei
@@ -793,6 +795,7 @@ funnyordie.com (US):US/Eastern
 fuse:US/Eastern
 Fusion (US):US/Eastern
 FX (AU):Australia/Sydney
+FX (US):US/Eastern
 FX CANADA:Canada/Eastern
 FX MOVIE CHANNEL (US):US/Eastern
 FX:US/Eastern
@@ -1242,7 +1245,7 @@ NEN (AU):Australia/Sydney
 neonalley.com (US):US/Eastern
 NET 5:Europe/Amsterdam
 Netflix (UK):Europe/London
-Netflix:US/Eastern
+Netflix:US/Pacific
 Network Ten:Australia/Sydney
 NEW (AU):Australia/Sydney
 New England Sports Network (US):US/Eastern
@@ -1727,6 +1730,7 @@ Sprout (US):US/Eastern
 spt tv (US):US/Eastern
 SR:Europe/Berlin
 SRF 1:Europe/Zurich
+Stan:Australia/Sydney
 Star Channel (GR):Europe/Athens
 STAR Chinese Channel:Asia/Taipei
 Star Gold (UK):Europe/London
@@ -1904,6 +1908,7 @@ TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT Serie:Europe/Berlin
 TNT:US/Eastern
+TNT (US):US/Eastern
 TNU:America/Montevideo
 Toei Channel:Asia/Tokyo
 Tokai TV (JP):Asia/Tokyo
